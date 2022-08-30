@@ -6,7 +6,7 @@
 ## Django
 ![alt tag](https://github.com/llraekll/r-shortlinks/blob/main/images/dj1.png)
 
-## A python app built on the framework Djangi genratins a short link/URL for every URL entered.
+## A python app built on the framework Django genratins a short link/URL for every URL entered.
 ### The URL entered by the user is stored in the database,the app generates a URL unique 5 digit variable of numbers,uppercase letters and lowercase letters. It redirects too!
 
 # http://r-shortlinks.herokuapp.com/ 
