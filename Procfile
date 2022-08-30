@@ -1,1 +1,1 @@
-web: gunicorn r_solutions.wsgi --log-file - 
+web: gunicorn r_shortlinks.wsgi --log-file - 
