@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
-    'r_shortlink',
+    'shortlink',
 ]
 
 MIDDLEWARE = [
